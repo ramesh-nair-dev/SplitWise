@@ -107,13 +107,13 @@ The implementation is closer to how **product companies architect real systems**
 * Focused on building **scalable, maintainable, real-world systems**.
 * Passionate about **clean architecture, design patterns, and domain modeling**.
 
-📫 Reach me at: \[[your-email@example.com](mailto:your-email@example.com)]
-🌐 GitHub: [github.com/your-username](https://github.com/your-username)
+📫 Reach me at: ramesh200212@gmail.com
+🌐 GitHub: https://github.com/ramesh-nair-dev
 
 ---
 
-⚡ This README positions your SplitWise project as an **elite-level engineering artifact**, not a student exercise.
+
 
 ---
 
-👉 Do you want me to also add a **Mermaid system diagram** (like expense flow → splitting → balance → settlement) so that recruiters see a **visual architecture** right in your README? That would silently scream *“this guy thinks like a system designer.”*
+
