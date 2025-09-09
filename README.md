@@ -120,8 +120,8 @@ The implementation is closer to how **product companies architect real systems**
 * Focused on building **scalable, maintainable, real-world systems**.
 * Passionate about **clean architecture, design patterns, and domain modeling**.
 
-📫 Reach me at: \[[ramesh200212@gmail.com](mailto:ramesh200212@gmail.com]
-🌐 GitHub: [github.com/ramesh-nair-dev]([https://github.com/your-username](https://github.com/ramesh-nair-dev))
+📫 Reach me at: ramesh200212@gmail.com
+🌐 GitHub: https://github.com/ramesh-nair-dev
 
 
 ---
